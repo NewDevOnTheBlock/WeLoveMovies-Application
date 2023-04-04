@@ -39,10 +39,10 @@
 
 ## About The Project
 
-![Screen Shot](ttps://we-love-movies-frontend-qip9.onrender.com)
+![Screen Shot](https://we-love-movies-frontend-qip9.onrender.com)
 
 You can view a deployed version of this app at: 
-ttps://we-love-movies-frontend-qip9.onrender.com
+https://we-love-movies-frontend-qip9.onrender.com
 
 Note: Render can take a minute to show relevant information retrieved from the DB. This is a common issue with deployment on Render, but rest assured that the app is functioning and does indeed work properly. If all else fails, try either refreshing the page, or loading in from a new window.
 
